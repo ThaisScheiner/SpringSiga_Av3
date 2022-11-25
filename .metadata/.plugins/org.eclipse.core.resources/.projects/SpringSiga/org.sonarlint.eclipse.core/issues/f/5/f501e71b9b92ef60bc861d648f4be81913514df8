@@ -1,0 +1,11 @@
+
+{
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‰Ê¨›8•’ÇÇ0HªRMINORZ
+CODE_SMELL
+}	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ß—ŞÕûÿÿÿÿH¬RMINORZ
+CODE_SMELL
+‚
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(·Ş­ ÿÿÿÿÿ8û”ÇÇ0H­RMINORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿåãCH¯RMINORZ
+CODE_SMELL

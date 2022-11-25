@@ -1,0 +1,25 @@
+
+|
+java:S2095W"OUse try-with-resources or close this "CallableStatement" in a "finally" clause.(ÑÊèÓ8ÈàÂÖÃ0HRRBLOCKERZBUG
+§
+java:S13196"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(²µşÿÿÿÿÿ8ÈàÂÖÃ0HMRMINORZ
+CODE_SMELL
+
+java:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤¶¤Óÿÿÿÿÿ8ÈàÂÖÃ0HFRMINORZ
+CODE_SMELL
+
+java:S2095$"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Àış ıÿÿÿÿ8ÈàÂÖÃ0HSRBLOCKERZBUG
+ƒ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈüáMH3RMINORZ
+CODE_SMELL
+
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿÊæöûÿÿÿÿ8ÈàÂÖÃ0HHRMINORZ
+CODE_SMELL
+‡	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¶¤Óÿÿÿÿÿ8ÈàÂÖÃ0HPRMINORZ
+CODE_SMELL
+§
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ú„ÒŞşÿÿÿÿ8ÈàÂÖÃ0HJRMINORZ
+CODE_SMELL
+‡	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÊæöûÿÿÿÿ8ÈàÂÖÃ0HQRMINORZ
+CODE_SMELL
+
+java:S2095>"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Àış ıÿÿÿÿ8ÈàÂÖÃ0HTRBLOCKERZBUG

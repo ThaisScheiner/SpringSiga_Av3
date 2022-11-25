@@ -1,0 +1,25 @@
+
+t
+java:S1128"<Remove this unused import 'org.springframework.ui.ModelMap'.(ÊÁâºùÿÿÿÿ8ÂĞŒ¿Ê0HRMINORZ
+CODE_SMELL
+W
+java:S3751+"Make this method non "private".(º—Êºùÿÿÿÿ8Àè¾Ê0H©RMAJORZ
+CODE_SMELL
+
+java:S1128"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿ8ÂĞŒ¿Ê0HRMINORZ
+CODE_SMELL
+}	java:S101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(×¹ÖÊûÿÿÿÿH“RMINORZ
+CODE_SMELL
+}
+java:S4488*"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"( ‡×Ä8§—¾Ê0HÕRMINORZ
+CODE_SMELL
+„	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿåãCH”RMINORZ
+CODE_SMELL
+o
+java:S2259M"CA "NullPointerException" could be thrown; "bytes" is nullable here.(Êà“§8´¶ˆ¿Ê0HŞRMAJORZBUG
+e
+java:S20939"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8´¶ˆ¿Ê0H•RCRITICALZ
+CODE_SMELL
+¯
+java:S1130+"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(º—Êºùÿÿÿÿ8´¶ˆ¿Ê0H“RMINORZ
+CODE_SMELL

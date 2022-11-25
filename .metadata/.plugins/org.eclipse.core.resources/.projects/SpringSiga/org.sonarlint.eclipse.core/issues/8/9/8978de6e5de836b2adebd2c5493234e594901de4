@@ -1,0 +1,6 @@
+
+É	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( Æ‹HRMINORZ
+CODE_SMELL
+Æ
+java:S1130"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(ŒŸ‹Å˝ˇˇˇˇ8œ∂Ü÷√0HRMINORZ
+CODE_SMELL

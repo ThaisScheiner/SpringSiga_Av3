@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Thais\OneDrive - Fatec Centro Paula Souza\FATEC\5 Semestre 08-2022\Laboratório de Banco de Dados\SpringSiga\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+233619754.index
+3701712496.index
+4064115628.index
+3736838660.index
+1861740399.index
+4109922519.index

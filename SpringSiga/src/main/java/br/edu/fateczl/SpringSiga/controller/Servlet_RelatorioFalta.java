@@ -54,7 +54,7 @@ public class Servlet_RelatorioFalta
 		
 		try {
 			Connection conn = gDao.getConnection();
-			File arquivo = ResourceUtils.getFile("classpath:reports/relatorioFaltas.jasper");
+			File arquivo = ResourceUtils.getFile("classpath:reports/exemploFaltas.jasper");
 			JasperReport report = (JasperReport) JRLoader.loadObjectFromFile(arquivo.getAbsolutePath());
 			bytes = JasperRunManager.runReportToPdf(report, param, conn);
 			
